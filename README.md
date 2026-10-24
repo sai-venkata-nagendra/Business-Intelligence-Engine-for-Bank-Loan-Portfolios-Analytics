@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-An interactive **Bank Loan & Debt Monitoring Dashboard** built with **Power BI (`DAX`, `Power Query`)**, **SQL**, and **Microsoft Excel (`Financial_loan_data.xlsx`)** to monitor loan portfolio performance, borrower repayment health, and credit risk exposure across **`38.6K` loans (`$435.8M` funded)**.
+An interactive **Bank Loan & Debt Monitoring Dashboard** built with **Power BI (`DAX`, `Power Query`)** and **Microsoft Excel (`Financial_loan_data.xlsx`)** to monitor loan portfolio performance, borrower repayment health, and credit risk exposure across **`38.6K` loans (`$435.8M` funded)**.
 
 ## Key Portfolio Metrics
 
@@ -30,5 +30,5 @@ Visualizes **Monthly Lending Trends**, **State-by-State Exposure**, **Loan Term 
 
 ## Tools & Files
 
-* **Tools Used:** Power BI Desktop, DAX, Power Query, SQL, Microsoft Excel
+* **Tools Used:** Power BI Desktop, DAX, Power Query,Microsoft Excel
 * **Files Included:** `Bank Loan Analytics Dashboard.pbix`, `Financial_loan_data.xlsx`, `Bank Loan Description.pdf`, `Problem Statement.pptx`, `PPT.pptx`
